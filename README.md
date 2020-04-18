@@ -1,4 +1,4 @@
-# UpdateToken
+# Update Access Token
 This Burp extension is used to updated bearer tokens, similar to how Burp's cooke jar works. Specifically, it pulls a authorization token out of a JSON response and includes it in future request headers.
 
 ## Example
